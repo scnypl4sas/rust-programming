@@ -1,0 +1,1 @@
+/home/ubuntu/code/rust/rust-programming/chap04-ownership/s2-references-and-borrowing/p1-immutable-references/target/debug/p1-immutable-references: /home/ubuntu/code/rust/rust-programming/chap04-ownership/s2-references-and-borrowing/p1-immutable-references/src/main.rs
